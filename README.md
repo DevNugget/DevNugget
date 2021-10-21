@@ -6,7 +6,7 @@
 
 - 🧸 About me ...
   - 🍔 A school student, a game developer, an artist aged 15.
-  - I also run a YouTube channel called [DevNugget].
+  - 🤩 I also run a YouTube channel called [DevNugget].
 
 [website]:https://beantoo.studio/
 [Sinister Twilight]:https://www.youtube.com/watch?v=SutGQUZZgI4
