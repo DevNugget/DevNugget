@@ -1,3 +1,5 @@
+---
+
 ### DevNugget
 
 - 💎 I’m currently working on ...
@@ -12,6 +14,8 @@
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNugget)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 [BeanToo]:https://beantoo.studio/
 [Sinister Twilight]:https://www.youtube.com/watch?v=SutGQUZZgI4
