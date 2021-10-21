@@ -13,7 +13,7 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNugget&show_icons=truetheme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNugget&show_icons=truetheme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
