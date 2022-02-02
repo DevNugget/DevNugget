@@ -3,8 +3,7 @@
 ### DevNugget
 
 - 💎 I’m currently working on ...
-  - 🎮 Working on a Metroidvania, [Sinister Twilight].
-  - 💻 Hosting a Game Jam, [Command Prompt Only Game Jam].
+  - Currently working on my own programming language called Vielin.
 
 - 🧸 About me ...
   - 🍔 A school student, a game developer, an artist aged 15.
