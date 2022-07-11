@@ -3,8 +3,8 @@
 ### DevNugget
 
 - 💎 I’m currently working on ...
-  - My own programming language called Vielin.
-  - TUI documentation for Vielin.
+  - My own programming language that translates to assembly.
+  - My first commercial game.
 
 - 🧸 About me ...
   - 🍔 A school student, a game developer, an artist aged 15.
