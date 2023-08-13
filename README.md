@@ -3,10 +3,10 @@
 ### DevNugget
 
 - 💎 I’m currently working on ...
-  - Programming language in C.
+  - Learning the ins and outs of C++.
 
 - 🧸 About me ...
-  - 🍔 A school student, a game developer, an artist aged 15.
+  - 🍔 A school student, a game developer, an artist aged 16.
   - 🤩 Owner the YouTube channel [DevNugget].
   - ⚙️ Part of the game studio [BeanToo].
 
