@@ -4,6 +4,7 @@
 
 - 💎 I’m currently working on ...
   - Learning the ins and outs of C++.
+  - Learning to automate and make tools using Python.
 
 - 🧸 About me ...
   - 🍔 A school student, a game developer, an artist aged 16.
