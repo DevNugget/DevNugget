@@ -3,11 +3,11 @@
 ### DevNugget
 
 - 💎 I’m currently working on ...
-  - Learning the ins and outs of C++.
-  - Learning to automate and make tools using Python.
+  - Learning the ins and outs of C.
+  - Learning web development and design.
 
 - 🧸 About me ...
-  - 🍔 A school student, a game developer, an artist aged 16.
+  - 🍔 A university student, a game developer, an artist aged 17.
   - 🤩 Owner the YouTube channel [DevNugget].
   - ⚙️ Part of the game studio [BeanToo].
 
