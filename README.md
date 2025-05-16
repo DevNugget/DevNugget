@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- Building games with the Godot game engine<br>- Building a CHIP-8 emulator in C++<br><br>🤝 I’m looking for help with<br>- OS development<br><br>🌱 I’m currently learning<br>- Web design and development<br>- Using local AI language models in video games<br><br>💬 Ask me about<br>- Any of the above<br><br>⚡ Fun fact<br>- I do this for fun
+🔭 I’m currently working on<br>- My own x86-64 operating system<br><br>- Building games with the Godot game engine<br>- Building a CHIP-8 emulator in C++<br><br>🤝 I’m looking for help with<br>- OS development<br><br>🌱 I’m currently learning<br>- Web design and development<br>- Using local AI language models in video games<br><br>💬 Ask me about<br>- Any of the above<br><br>⚡ Fun fact<br>- I do this for fun
 
 
 ## 🌐 Socials:
